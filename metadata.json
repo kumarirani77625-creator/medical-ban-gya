@@ -1,0 +1,12 @@
+{
+  "name": "CareMitra",
+  "description": "Medicine and Emergency Assistance for Seniors - Medicine photo identification, pharmacy finder, SOS location sharing, and senior AI assistant in English and Hindi.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
